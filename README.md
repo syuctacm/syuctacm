@@ -1,2 +1,2 @@
 # <u>Welcome to SYUCT-ACM team.</u>
-This is the [Guide](https://github.com/syuctacm/syuctacm/wiki) for you.
+[__This is the guide for you.__](https://github.com/syuctacm/syuctacm/wiki)
