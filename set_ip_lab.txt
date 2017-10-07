@@ -1,0 +1,14 @@
+设置实验室ip
+windows
+    进入本地链接，属性，进入Internet协议版本4（TCP/IPc4）
+    IP地址:202.199.117.*   *为0到255之间
+    子网掩码:255.255.254.0
+    默认网关:255.255.117.254
+    首选DNS服务器:202.199.112.5
+    备用DNS服务器:202.96.64.68
+linux
+    打开终端输入
+    ifconfig eth0 202.199.117.* netmask 255.255.254.0
+    route add default gw 202.199.117.254
+    echo "nameserver 202.199.112.5" > /etc/resolv.conf
+    echo "nameserver 202.96.64.68" > /etc/resolv.conf
