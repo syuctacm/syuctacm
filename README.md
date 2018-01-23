@@ -1,5 +1,4 @@
-# <u>Welcome to SYUCT-ACM team.</u>
-## [__This is the guide for you.__](https://github.com/syuctacm/syuctacm/wiki)
+# [<u>Welcome to SYUCT-ACM team.</u>(点此获取buf)](https://github.com/syuctacm/syuctacm/wiki)
 
 实验室ip设置<br/>
 IPv4地  . . .:172.21.0.* <br/>
