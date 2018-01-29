@@ -17,6 +17,7 @@ __note__:
 ## 留言区
 
 @fengyufei
+
 有兴趣接触python的同学可以看看这个项目：[微信跳一跳辅助](https://github.com/syuctacm/wechat_jump_game)，我fork到组织了一个，可以随意修改并上传。
 
 
