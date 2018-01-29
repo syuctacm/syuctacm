@@ -18,9 +18,9 @@ __note__:
 
 @fengyufei 18-01-29
 
-有兴趣接触python的同学可以看看这个项目：[微信跳一跳辅助](https://github.com/syuctacm/wechat_jump_game)，我fork到组织了一个，可以随意修改并上传。
+    有兴趣接触python的同学可以看看这个项目：[微信跳一跳辅助](https://github.com/syuctacm/wechat_jump_game)，我fork到组织了一个，可以随意修改并上传。
 
-关于尝试新项目的建议
+    关于尝试新项目的建议
 
     1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/)
 
