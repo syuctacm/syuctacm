@@ -27,3 +27,7 @@ __note__:
 2.贪吃蛇，2048，等小游戏。（可参考github上他人代码后，再自行尝试开发）
 
 在组织中新建完库后就可以在留言区附上链接，说明等。有兴趣的同学就可以加入你的开发团队。
+
+@fengyufei 18-04-15
+基于flask的学生管理系统(初步)
+clone地址：https://github.com/vonsago/webFlask.git
