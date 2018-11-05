@@ -11,9 +11,6 @@ __note__:
      新设留言区，有问题和想法请留言，或直接qq我（不定时来写文档，和写些小项目）
 
 
-## [实验室联网时,ip设置方法](https://github.com/syuctacm/syuctacm/wiki/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%81%94%E7%BD%91ip%E8%AE%BE%E7%BD%AE)
-
-
 ## 留言区
 
 @fengyufei 18-01-29
