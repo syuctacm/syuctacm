@@ -1,15 +1,15 @@
-> 一些总结
+> 涓�浜涙�荤粨
  
- - [codeblocks的使用][1]
- - [文本编辑介绍][2]
- - [java环境搭建并使用eclipse][3]
+ - [codeblocks鐨勪娇鐢╙[1]
+ - [鏂囨湰缂栬緫浠嬬粛][2]
+ - [java鐜鎼缓骞朵娇鐢╡clipse][3]
 
-我的博客
+鎴戠殑鍗氬
  http://zhangxiaofeng.top
  
 
   
 
-  [1]: http://zhangxiaofeng.top/codeblocks%E7%9A%84%E4%BD%BF%E7%94%A8.html
-  [2]: http://zhangxiaofeng.top/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91.html
-  [3]: http://zhangxiaofeng.top/java%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%B9%B6%E4%BD%BF%E7%94%A8eclipse.html
+  [1]: https://zhangxiaofeng.top/2018/03/31/codeblocks%E7%9A%84%E4%BD%BF%E7%94%A8/
+  [2]: https://zhangxiaofeng.top/2018/04/01/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91/
+  [3]: https://zhangxiaofeng.top/2018/03/31/java%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%B9%B6%E4%BD%BF%E7%94%A8eclipse/
