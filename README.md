@@ -27,8 +27,12 @@ __note__:
 
 ---
 
-@fengyufei 18-04-15
+@fengyufei 18-04-15 update 18-11-21
 
 基于flask的学生管理系统(初步)
 
-clone地址：https://github.com/vonsago/webFlask.git
+clone: https://github.com/vonsago/webFlask.git
+
+个人容器管理平台
+
+clone: https://github.com/vonsago/service_platform
