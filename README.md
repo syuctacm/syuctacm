@@ -33,6 +33,6 @@ __note__:
 
 clone: https://github.com/vonsago/webFlask.git
 
-个人容器管理平台
+个人容器管理平台（也是基于flask的，比上面的规范了好多）
 
 clone: https://github.com/vonsago/service_platform
