@@ -1,4 +1,4 @@
-# [<u>Welcome to SYUCT-ACM team.</u>(点此获取buf)](https://github.com/syuctacm/syuctacm/wiki)
+# [<u>Welcome to SYUCT-ACM team.</u>(点此获取buff)](https://github.com/syuctacm/syuctacm/wiki)
 
 __note__:
 
