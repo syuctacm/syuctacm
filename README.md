@@ -27,12 +27,19 @@ __note__:
 
 ---
 
-@fengyufei 18-04-15 update 18-11-21
+@fengyufei 18-04-15 update 19-7-20
 
 基于flask的学生管理系统(初步)
 
 clone: https://github.com/vonsago/webFlask.git
 
-个人容器管理平台（也是基于flask的，比上面的规范了好多）
+个人容器管理平台（基于flask的，比上面的规范了好多）
 
 clone: https://github.com/vonsago/service_platform
+
+目前本项目已改成前后端分离的实践，前端 clone: https://github.com/vonsago/DDP_UI
+
+做实验时仔细阅读 service_platform 项目中 README.md
+
+
+
