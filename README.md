@@ -41,5 +41,9 @@ clone: https://github.com/vonsago/service_platform
 
 做实验时仔细阅读 service_platform 项目中 README.md
 
+---
 
+@fengyufei 19-10-08
+
+新增图书馆 https://github.com/syuctacm/Library ，希望大家积极积累图书，注意分类
 
