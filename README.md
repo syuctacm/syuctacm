@@ -13,13 +13,13 @@ __note__:
 
 ## 留言区
 
-@fengyufei 18-01-29
+@von 18-01-29
 
 有兴趣接触python的同学可以看看这个项目：[微信跳一跳辅助](https://github.com/syuctacm/wechat_jump_game)，我fork到组织了一个，可以随意修改并上传。
 
 关于尝试新项目的建议
 
-1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/) && 全程免费教程[我的blog](http://vongola.tk/2019/11/03/Build-Static-Blog/)
+1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/) && [免费搭建博客教程](http://vongola.tk/2019/11/03/Build-Static-Blog/)
 
 2.贪吃蛇，2048，等小游戏。（可参考github上他人代码后，再自行尝试开发）
 
@@ -27,7 +27,7 @@ __note__:
 
 ---
 
-@fengyufei 18-04-15 update 19-7-20
+@von 18-04-15 update 19-7-20
 
 基于flask的学生管理系统(初步)
 
@@ -43,7 +43,7 @@ clone: https://github.com/vonsago/service_platform
 
 ---
 
-@fengyufei 19-10-08
+@von 19-10-08
 
 新增图书馆 https://github.com/syuctacm/Library ，希望大家积极积累图书，注意分类
 
