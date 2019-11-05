@@ -19,7 +19,7 @@ __note__:
 
 关于尝试新项目的建议
 
-1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/)
+1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/) && 全程免费教程[我的blog](http://vongola.tk/2019/11/03/Build-Static-Blog/)
 
 2.贪吃蛇，2048，等小游戏。（可参考github上他人代码后，再自行尝试开发）
 
