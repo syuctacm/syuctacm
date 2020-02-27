@@ -15,11 +15,9 @@ __note__:
 
 @von 18-01-29
 
-有兴趣接触python的同学可以看看这个项目：[微信跳一跳辅助](https://github.com/syuctacm/wechat_jump_game)，我fork到组织了一个，可以随意修改并上传。
-
 关于尝试新项目的建议
 
-1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/) && [免费搭建博客教程](http://vongola.tk/2019/11/03/Build-Static-Blog/)
+1.搭建自己的静态博客，[开源静态网页框架列表](https://www.staticgen.com/) && [免费搭建博客教程](http://vongola.tk/Build-Static-Blog/)
 
 2.贪吃蛇，2048，等小游戏。（可参考github上他人代码后，再自行尝试开发）
 
