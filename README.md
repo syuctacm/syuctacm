@@ -14,7 +14,9 @@ __note__:
 ## 留言区
 
 @von 20-03-18
-SYUCTACM [宣传网站主页](http://syuctacm.tk/)
+SYUCTACM 
+
+[宣传网站主页](http://syuctacm.tk/)
 
 @von 18-01-29
 
