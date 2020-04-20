@@ -1,3 +1,5 @@
+[我们的主页](https://syuctacm.tk/)
+
 # [<u>Welcome to SYUCT-ACM team.</u>(点此获取buff)](https://github.com/syuctacm/syuctacm/wiki)
 
 __note__:
