@@ -1,4 +1,4 @@
-[我们的主页](https://syuctacm.tk/)
+## [<u>我们的主页</u>](https://syuctacm.tk/)
 
 # [<u>Welcome to SYUCT-ACM team.</u>(点此获取buff)](https://github.com/syuctacm/syuctacm/wiki)
 
