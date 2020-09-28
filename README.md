@@ -52,3 +52,8 @@ clone: https://github.com/vonsago/service_platform
 
 新增图书馆 https://github.com/syuctacm/Library ，希望大家积极积累图书，注意分类
 
+--
+@fanke 20-9-28
+
+//TODO
+对[宣传主页](syuctacm.tk)进行整理。
